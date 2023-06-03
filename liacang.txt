@@ -14,7 +14,6 @@
 {"url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json","name":"磁通"},
 {"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name":"小胡"},
 {"url":"https://agit.ai/leevi/apps/raw/branch/main/ly.json","name":"恋影"},
-
 {"url":"https://agit.ai/VivoMax/tangs/raw/branch/master/max.json","name":"唐max"},
 {"url":"https://agit.ai/VivoMax/tangs/src/branch/master/tangs.json","name":"唐三"},
 {"url":"https://calendre.top/TVBox/YXHC.json","name":"☪夕✿晨"},
