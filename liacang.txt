@@ -2,6 +2,7 @@
 {"url":"https://jihulab.com/zhusuner/hamagui/-/raw/main/shuangwaiwai.json","name":"爽歪歪"},
 {"url":"https://jihulab.com/zhusuner/hamagui/-/raw/main/XYQTVBox.json","name":"香雅晴"},
 {"url":"https://jihulab.com/zhusuner/TVBox/-/raw/main/lib/%E6%97%A0%E5%BF%A7ali.json","name":"团结ali"},
+{"url":"http://xhww.fun:63/小米/DEMO.json","name":"小米"},
 {"url":"http://饭太硬.ga/tv","name":"饭太硬"},
 {"url":"https://weixine.net/ysc.json","name":"z运输车"},
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫"},
