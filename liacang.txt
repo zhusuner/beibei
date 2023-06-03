@@ -26,7 +26,7 @@
             "name": "肥猫"
         },
         {
-            "url": "https://raw.githubusercontent.com/zhusuner/hamagui/main/liacang.txt",
+            "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米"
         },
         {
