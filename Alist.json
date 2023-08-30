@@ -2,6 +2,10 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
+      "name": "捡的",
+      "server": "https://alist.siwsal.com/"
+    },
+    {
       "name": "弱水",
       "server": "http://m.shicheng.wang:13333/"
     },
