@@ -1,5 +1,5 @@
 {"urls":[
-{"name":"爽歪","url":"https://gitea.com/zifeng/caiya/raw/branch/main/shuangwai.json"},
+{"name":"爽歪","url":"https://ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/shuangwai.json"},
 {"name":"南风","url":"http://tv.glxkx.com/config/2"},
 {"name":"XYQ-gao","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
 {"name":"js","url":"https://ghproxy.com/https://raw.githubusercontent.com/zhusuner/gao/master/js.json"},
