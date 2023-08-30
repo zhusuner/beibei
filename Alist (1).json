@@ -1,0 +1,49 @@
+{
+  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "drives": [
+    {
+      "name": "弱水",
+      "server": "http://m.shicheng.wang:13333/"
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    },
+    {
+      "name": "资源",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "盘源",
+      "server": "https://a.sodaz.xyz"
+    },
+    {
+      "name": "雨呢",
+      "server": "https://pan.clun.top"
+    },
+    {
+      "name": "小雅",
+      "server": "http://alist.glxkx.com"
+    },
+    {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
+    }
+  ]
+}
