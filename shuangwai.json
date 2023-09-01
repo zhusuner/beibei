@@ -1,12 +1,11 @@
-{
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;de50ad6ce386187037fbf980b04b229e",
+{"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;de50ad6ce386187037fbf980b04b229e",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "sites":[
 {"key":"豆豆","name":"关注公众号【神秘的哥哥们】防失联","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"lf_js_search","name":"搜索 | lf_search","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"https://jihulab.com/zhusuner/hamagui/-/raw/main/If/lf_search3_min.js"},
 {"key":"lf_js_p2p","name":"🧊磁力 | lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/zhusuner/hamagui/-/raw/main/If/lf_p2p1_min.js","ext":""},
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
-{"key":"lf_js_lf_live","name":"直播lf","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
+{"key":"lf_js_lf_live","name":"直播lf","type":3,"api":"https://raw.gitmirror.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/gaotianliuyun/gao/master/js/lf_live.txt"},
 {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"Zhaozy","name":"🦐找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$linlin$$$5221"},
 {"key":"csp_Alist","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/Alist.json"},
@@ -75,7 +74,7 @@
 //{"key":"熊熊","name":"熊熊","type":3,"api":"csp_XBPQ","ext":"https://jihulab.com/blank7355005/box/-/raw/main/XBPQ/磁力熊.json"},
 //{"key": "csp_appys_如意4K","name": "如意影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","playUrl": "https://daina.hk/api/?key=bc88e41f4a812deec09b3ee1685a4e64&url="},
 //{"key":"熊熊","name":"🎭熊熊","type":1,"api":"https://vv.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
-//{"key":"IKan","name":"k爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/cs.jar"},
+//{"key":"IKan","name":"k爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://raw.gitmirror.com/gaotianliuyun/gao/master/jar/cs.jar"},
  
 {"key":"csp_Czsapp","name":"🌴厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"ext":"https://cz01.me/","filterable":1},
 {"key":"csp_Bdys","name":"💧哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/zhusuner/hamagui/-/raw/main/Jar/custom_spider.jar;md5;4f4a7b576a92810cf89eb844520ae641"}, 
@@ -199,7 +198,7 @@
 {"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 //gaotianliuyun
-//{"key":"drpy_js_麦豆网","name":"麦豆网[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/麦豆.js","jar": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
+//{"key":"drpy_js_麦豆网","name":"麦豆网[js]","type":3,"api":"https://raw.gitmirror.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/gaotianliuyun/gao/master/js/麦豆.js","jar": "https://raw.gitmirror.com/gaotianliuyun/gao/master/jar/custom_spider.jar"},
 
 //秒崩
 //{"key":"飞","name":"飞云4k👑","type":3,"api":"csp_XBPQ","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E9%A3%9E%E4%BA%914k.json"},
@@ -309,4 +308,3 @@
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"15728640"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"15728640"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"}]}],
 "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
-
