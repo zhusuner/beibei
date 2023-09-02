@@ -134,7 +134,7 @@
 {"key":"低端","name":"低端┃外剧","type":3,"playerType":"2","api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://smallmi.xiaohewanwan.love:63/dd.js"},
 {"key":"csp_Bttoo","name":"🔺Btto┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 //fongmi
-{"key":"獨播","name":"獨播S","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"http://tv.glxkx.com/txt/json/duboku.json$$$socks5://127.0.0.1:7890","jar":"https://jihulab.com/zhusuner/hamagui/-/raw/main/Jar/pg.jar;md5;2ab8c76e9059830a7afe2299913cb541"},
+{"key":"獨播","name":"獨播S","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"http://tv.glxkx.com/txt/json/duboku.json$$$socks5://127.0.0.1:7890","jar":"https://jihulab.com/zhusuner/hamagui/-/raw/main/Jar/pg.jar;md5;d2a52f358c3dfae29e005eb8fe002832"},
 {"key":"open_js_琨魚","name":"琨魚","type":3,"api":"https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1},
 {"key":"drpy_js_麦豆com","name":"麦豆com[js]","viewType":1,"type":3,"api":"https://drpy.netlify.app/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/麦豆com.js"},
 {"key":"csp_xBPQ_TVB云播","name":"🐲TVB云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/zhusuner/xiaoqin/-/raw/main/XYQHiker/TVB%E4%BA%91%E6%92%ADxbpq.json","jar":"https://jihulab.com/zhusuner/hamagui/-/raw/main/Jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
