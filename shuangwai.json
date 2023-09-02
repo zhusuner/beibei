@@ -146,7 +146,7 @@
 {"key":"素白","name":"素白┃BPQ","type":3,"api":"csp_XBPQ","playerType":"1","ext":"http://xhww.fun:63/小米/源/素白.json"},
 {"key":"兔兔","name":"兔兔┃WBPQ","type":3,"searchable":1,"quickSearch":1,"filterable":0,"api":"csp_XBPQ","ext":"http://xhww.fun:63/小米/源/兔兔.json","jar":"http://xhww.fun:63/小米/0726.jar"},
 {"key":"王子","name":"王子┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xhww.fun:63/小米/源/王子.json"},
-	{"key":"夜幕","name":"️夜夜┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"站名":"夜光影视","主页url":"https://www.ygpvp.com/","分类url":"https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v","分类":"电影$1#电视剧$2#综艺$3#动漫$4","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"https://www.ygpvp.com/voddetail/+\"id\":&&,+html","跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"","二次跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx","三次跳转播放链接":"\"url\"*\"&&\"","年代":"年份：&&</a>","地区":"地区：&&</a>","类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"<p>&&</p>"}},
+{"key":"夜幕","name":"️夜夜┃BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"站名":"夜光影视","主页url":"https://www.ygpvp.com/","分类url":"https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v","分类":"电影$1#电视剧$2#综艺$3#动漫$4","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"https://www.ygpvp.com/voddetail/+\"id\":&&,+html","跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"","二次跳转播放链接":"https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx","三次跳转播放链接":"\"url\"*\"&&\"","年代":"年份：&&</a>","地区":"地区：&&</a>","类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"<p>&&</p>"}},
 {"key":"零度","name":"零度┃BPQ","type":3,"api":"csp_XBPQ","playerType":"1","ext":"http://xhww.fun:63/小米/源/零度.json","jar":"http://xhww.fun:63/小米/0726.jar"},
 {"key":"奇优","name":"奇优┃BPQ","type":3,"api":"csp_XBPQ","playerType":"1","ext":"http://xhww.fun:63/小米/源/奇优.json"},
 {"key":"零度","name":"零度┃当贝","type":3,"api":"csp_XBPQ","playerType":"1","ext":"http://xhww.fun:63/小米/源/小刀.json","jar":"http://xhww.fun:63/小米/0726.jar"},
@@ -304,15 +304,7 @@
 "lives":[
 {"name":"hui","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":2,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"谷豆直播","type":0,"url":"http://tv.glxkx.com/txt/lives/gudou.m3u","logo":"","epg":"","ua":""},
-{"name":"百视通直播","type":0,"url":"http://tv.glxkx.com/txt/lives/bestv.m3u","logo":"","epg":"","ua":""},
-{"name":"重庆有线","type":0,"url":"http://tv.glxkx.com/txt/lives/cqyx.m3u","logo":"","epg":"","ua":""},
-{"name":"爱尚直播","type":0,"url":"http://tv.glxkx.com/txt/lives/aishang.m3u","logo":"","epg":"","ua":""},
-{"name":"蜀小果直播","type":0,"url":"http://tv.glxkx.com/txt/lives/sxg.m3u","logo":"","epg":"","ua":""}
+{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
 "hotSearch":[{"name":"mobilesearch","request":{"method":"GET","header":[{"key":"Referer","value":"http://tv.glxkx.com"}],"url":{"raw":"http://tv.glxkx.com/hotsugg?t={time}"}},"response":{"result":"$.data","data":[{"key":"keyword","value":"title"}]}}],
