@@ -16,7 +16,7 @@ var rule = {
 	filterable:1,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/jiyingw.txt',
+         	'Cookie':'cf_clearance=84K9CAnnsRwPZMYmQXWMH3JRpPTt9GmZFaXKY_apjB0-1692948197-0-1-f8e2ca8b.2897d5ba.afe3956b-0.2.1692948197; wordpress_test_cookie=WP%20Cookie%20check; PPA_CI=82c9e5785ac517ac245c2e4c6570e7da',
 		'Accept':'*/*',
 		'Referer': 'https://www.jiyingw.net/'
 	},
