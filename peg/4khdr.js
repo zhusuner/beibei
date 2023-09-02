@@ -12,7 +12,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
+         	'Cookie':'hvLw_2132_saltkey=w7264V4x; hvLw_2132_lastvisit=1691992036; hvLw_2132_visitedfid=2; hvLw_2132_auth=9c27agVEw3NP2G%2FudD8n1uDBq%2BnL9%2BoNG2ZLkWofr2EkOsuc1XBNb%2BZFVMeTi6vLx8JbRONTBWVny6oztr0KN1wuWQ; hvLw_2132_lastcheckfeed=99614%7C1692108659; hvLw_2132_sid=0; hvLw_2132_ulastactivity=1692625286%7C0; hvLw_2132_sendmail=1; _clck=nba3di|2|fec|0|1321; PPA_CI=cfe1376da9c2ffba64c0ee62df24d4ea; hvLw_2132_lastact=1692625301%09index.php%09forumdisplay; hvLw_2132_st_t=99614%7C1692625301%7C8ff52f1faa375b42f7d11661c6359bb2; hvLw_2132_forum_lastvisit=D_2_1692625301; _clsk=18zbs2f|1692625315095|2|1|n.clarity.ms/collect',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
