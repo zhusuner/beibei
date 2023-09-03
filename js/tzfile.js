@@ -58,7 +58,7 @@ setResult(d);
 		content:"#main article .entry-content&&Text",
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-TABS=[]
+TABS=[];
 let d = pdfa(html, '#main article div.entry-content p');
 let tabsq=[];
 d.forEach(function(it) {
@@ -82,6 +82,7 @@ log('tzfile TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
+LISTS=[];
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = pdfa(html, '#main article div.entry-content p');
 let tabsq=[];
