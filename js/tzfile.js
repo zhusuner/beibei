@@ -15,6 +15,7 @@ var rule = {
 		'Accept': '*/*',
 		'Referer': 'https://t-rex.tzfile.com/'
 	},
+	图片来源:'@Referer=https://t-rex.tzfile.com/',
 	timeout:5000,
 	class_name:'电影&电视剧&动画&纪录片演唱会&真人秀综艺',
 	class_url:'movies&tvshow&animation&faction&show',
@@ -85,7 +86,6 @@ log(TABS);
 LISTS=[];
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = pdfa(html, '#main article div.entry-content p');
-let tabsq=[];
 d.forEach(function(it) {
 	let purl = pd(it, 'a&&href', HOST);
 	if (/(pan.quark.cn|www.aliyundrive.com)/.test(purl)){
@@ -105,5 +105,5 @@ d.forEach(function(it) {
 `,
 
 	},
-	搜索:'main#main div.container article:has(>img);a&&title;img&&data-src;div.entry-wrapper a&&Text;a&&href',
+	搜索:'main#main div.container article:has(img);a&&title;img&&data-src;div.entry-wrapper a&&Text;a&&href',
 }
