@@ -1,7 +1,7 @@
-{"spider":"./jar/fan.jar",
+{"spider":"./jar/fm.jar",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "sites":[
-{"key":"豆豆","name":"关注公众号【神秘的哥哥们】防失联","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar": "./Jar/fan.jar"},
+{"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"https://jihulab.com/zhusuner/hamagui/-/raw/main/Cat/drpy.js","searchable":1,"quickSearch":0,"changeable":1},
 {"key":"lf_js_search","name":"搜索 | lf_search","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"./If/lf_search3_min.js","jar": "./Jar/fan.jar"},
 {"key":"lf_js_p2p","name":"🧊磁力 | lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./If/lf_p2p1_min.js","ext":"","jar": "./Jar/fan.jar"},
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json","jar": "./Jar/fan.jar"},
