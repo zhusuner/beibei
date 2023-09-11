@@ -17,8 +17,8 @@ var rule = {
 	},
 	图片来源:'@Headers={"Accept":"*/*","Referer":"https://www.97tvs.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"}',
 	timeout:5000,
-  	class_name: "动作片&科幻片&爱情片&喜剧片&剧情片&惊悚片&战争片&灾难片&罪案片&动画片&综艺&电视剧",
-  	class_url: "action&science&love&comedy&story&thriller&war&disaster&crime&cartoon&variety&sitcoms",
+  	class_name: "电视剧&综艺&动画片&动作片&科幻片&爱情片&喜剧片&剧情片&惊悚片&战争片&灾难片&罪案片",
+  	class_url: "sitcoms&variety&cartoon&action&science&love&comedy&story&thriller&war&disaster&crime",
 	play_parse:true,
 	play_json:[{
 		re:'*',
