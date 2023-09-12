@@ -14,6 +14,7 @@
 {"name":"影探","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"业余","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
 {"name":"小五","url":"https://qu.ax/gNGM.json"},
+{"name":"小五","url":"https://raw.gitmirror.com/linshaoyue/fufei/main/😄.json"},
 {"name":"恋影","url":"https://m.lianyingtv.com/uploads/itvbox/7.19.json"},
 {"name":"🏆荷城茶秀","url":"http://rihou.cc:88/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80"},
 {"name":"香雅晴","url":"https://jihulab.com/zhusuner/hamagui/-/raw/main/XYQTVBox.json"},
