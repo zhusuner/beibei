@@ -2,6 +2,10 @@
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
+      "name": "一点红",
+      "server": "http://124.71.206.236:5678/"
+    },
+    {
       "name": "捡的",
       "server": "https://alist.siwsal.com/"
     },
