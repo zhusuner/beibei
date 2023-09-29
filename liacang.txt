@@ -10,6 +10,7 @@
 {"name":"pgs","url":"https://jihulab.com/zhusuner/hamagui/-/raw/main/pg.json"},
 {"name":"🐼肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx"},
+{"name":"L夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/c8a4578d03a6b0518977bdcc503dff86103bd2f2/ymxx"},
 {"name":"s🌺小胡","url":"http://smr.xzam.cn:66/tv"},
 {"name":"影探","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"业余","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
