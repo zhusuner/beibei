@@ -11,6 +11,9 @@
 {"name":"🐼肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx"},
 {"name":"原接口666","url":"clan://localhost/AGTV/原接口666.json"},
+{"name":"💦巧儿","url":"http://pandown.pro/tvbox/tvbox.json"},
+
+
 {"name":"s🌺小胡","url":"http://smr.xzam.cn:66/tv"},
 {"name":"影探","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"业余","url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json"},
@@ -19,7 +22,7 @@
 {"name":"恋影","url":"https://m.lianyingtv.com/uploads/itvbox/7.19.json"},
 {"name":"🏆荷城茶秀","url":"http://rihou.cc:88/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80"},
 {"name":"香雅晴","url":"https://jihulab.com/zhusuner/hamagui/-/raw/main/XYQTVBox.json"},
-{"name":"巧儿","url":"http://pandown.pro/tvbox/tvbox.json"},
+
 {"name":"🌙胖鸭","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 {"name":"🎀元兴","url":"https://freed.yuanhsing.cf/TVBox/meowcf.json"},
 {"name":"恋影","url":"https://agit.ai/leevi/apps/raw/branch/main/ly.json"},
