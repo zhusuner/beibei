@@ -10,7 +10,8 @@
 {"name":"原接口9","url":"clan://localhost/AGTV/原接口9.json"},
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 
-{"name":"🐼肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
+{"name":"🐼肥猫","url":"http://肥猫.live/     
+"},
 {"name":"夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx"},
 {"name":"原接口666","url":"clan://localhost/AGTV/原接口666.json"},
 {"name":"💦巧","url":"http://cdn.qiaoji8.com/tvbox.json"},
