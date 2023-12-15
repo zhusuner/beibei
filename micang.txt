@@ -16,6 +16,7 @@
 {"name":"原接口666","url":"clan://localhost/AGTV/原接口666.json"},
 {"name":"💦巧","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"ok","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"},
+{"name":"XYQ-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
 {"name":"蜂蜜","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"🧊猫爪js_dao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
 {"name":"道长","url":"https://pastebin.com/raw/5NHaxyGR"},
