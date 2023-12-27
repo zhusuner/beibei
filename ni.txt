@@ -4,7 +4,7 @@
 {"name":"XYQ","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
 {"name":"js","url":"https://raw.githubusercontent.com/zhusuner/gao/master/js.json"},
 {"name":"pg-gao","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},
-{"name":"z-ok","url":"raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
+{"name":"z-ok","url":"https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"},
 {"name":"🍚饭太硬","url":"http://饭太硬.top/tv"},
 {"name":"小胡","url":"http://xiaohu.xzam.cn/xiaohu"},
 {"name":"原接口9","url":"clan://localhost/AGTV/原接口9.json"},
