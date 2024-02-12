@@ -6,7 +6,7 @@
 {"name":"pg-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},
 {"name":"
 zxin-pg","url":"https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/jsm.json"},
-{"name":"真心","url":"https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/FongMi.json"},
+{"name":"真心","url":"https://jihulab.com/dukunjueji/kk/-/raw/main/json/FongMi.json"},
 {"name":"ók","url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"},
 {"name":"Candy","url":"https://tv.lan2wan.top/candymuj1.json"},
 {"name":"🍚饭太硬","url":"http://饭太硬.top/tv"},
