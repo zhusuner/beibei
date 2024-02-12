@@ -11,13 +11,13 @@ zxin-pg","url":"https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/jsm.
 {"name":"Candy","url":"https://tv.lan2wan.top/candymuj1.json"},
 {"name":"🍚饭太硬","url":"http://饭太硬.top/tv"},
 {"name":"小胡","url":"http://xiaohu.xzam.cn/xiaohu"},
-{"name":"原接口9","url":"clan://localhost/AGTV/原接口9.json"},
+{"name":"原接口9","url":"file://AGTV/原接口9.json"},
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
 
 {"name":"🐼肥猫","url":"http://肥猫.live/     
 "},
 {"name":"夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx"},
-{"name":"原接口666","url":"clan://localhost/AGTV/原接口666.json"},
+{"name":"原接口666","url":"file://AGTV/原接口666.json"},
 {"name":"💦巧","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"ok","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"},
 {"name":"XYQ-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
