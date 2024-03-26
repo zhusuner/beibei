@@ -1,5 +1,8 @@
 {"urls":[
+{"name":"原接口666","url":"file://AGTV/原接口666.json"},
 {"name":"爽歪","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/shuangwai.json"},
+{"name":"放牛","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/
+"},
 {"name":"T风","url":"http://tv.glxkx.com/config/2"},
 {"name":"XYQ","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
 {"name":"js","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/gao/master/js.json"},
@@ -13,13 +16,36 @@ zxin-pg","url":"https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/jsm.
 {"name":"小胡","url":"http://xiaohu.xzam.cn/xiaohu"},
 {"name":"原接口9","url":"file://AGTV/原接口9.json"},
 {"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
-
+{"name":"Yoursmile7","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"happybaihao","url":"https://raw.githubusercontent.com/happybaihao/pan/main/github.json"},
+{"name":"xzqzy","url":"https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/%E9%98%BF%E6%B6%9B.json"},
+{"name":"yydf","url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"},
+{"name":"短剧","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
 {"name":"🐼肥猫","url":"http://肥猫.live/     
 "},
+{
+      "name": "甜蜜",
+      "url": "http://zdir.kebedd69.repl.co/public/live.txt"
+   },
+   {
+      "name": "俊于",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+   },
+   {
+      "name": "菜妮丝",
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/tvzb.txt"
+   },
+   {
+      "name": "布里m3u",
+      "url": "http://jiexi.bulisite.top/m3u.php"
+   },
+   {
+      "name": "吾爱",
+      "url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0"
+   },
 {"name":"夜猫子","url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx"},
-{"name":"原接口666","url":"file://AGTV/原接口666.json"},
 {"name":"💦巧","url":"http://cdn.qiaoji8.com/tvbox.json"},
-{"name":"ok","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"},
+{"name":"ok-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json"},
 {"name":"XYQ-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
 {"name":"蜂蜜","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/CatVodSpider-log/main/json/config.json"},
 {"name":"🧊猫爪js_dao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vivo-Max/drpy-js/main/js.json"},
