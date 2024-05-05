@@ -1,6 +1,6 @@
 {"urls":[
 {"name":"原接口666","url":"file://AGTV/原接口666.json"},
-{"name":"原接口666","url":"file://pg/jsm.json"},
+{"name":"PG","url":"file://pg/jsm.json"},
 {"name":"爽歪","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/shuangwai.json"},
 {"name":"放牛","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
 {"name":"T风","url":"http://tv.glxkx.com/config/2"},
