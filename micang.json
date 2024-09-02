@@ -1,11 +1,11 @@
 {"urls":[
 {"name":"原接口666","url":"file://AGTV/原接口666.json"},
  {"name":"AITV","url":"file://AITV/原接口666.json"},
- {"name":"小米","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"AQTV","url":"file://AQTV/FongMi.json"},
 {"name":"PG","url":"file://pg/jsm.json"},
 {"name":"放牛","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
 {"name":"T风","url":"http://tv.glxkx.com/config/2"},
+ {"name":"小米","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"Candy","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"},
 {"name":"🍚饭太硬","url":"http://www.饭太硬.com/tv"}, 
 {"name":"🐼肥猫","url":"http://肥猫.com/"},     
