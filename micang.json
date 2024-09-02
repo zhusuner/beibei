@@ -1,6 +1,7 @@
 {"urls":[
 {"name":"原接口666","url":"file://AGTV/原接口666.json"},
  {"name":"AITV","url":"file://AITV/原接口666.json"},
+ {"name":"小米","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"AQTV","url":"file://AQTV/FongMi.json"},
 {"name":"PG","url":"file://pg/jsm.json"},
 {"name":"放牛","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
