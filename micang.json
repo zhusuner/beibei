@@ -1,9 +1,7 @@
 {"urls":[
-{"name":"原接口666","url":"file://AGTV/原接口666.json"},
- {"name":"AITV","url":"file://AITV/原接口666.json"},
+ {"name":"QING","url":"file://AQTV/青.json"},
 {"name":"AQTV","url":"file://AQTV/FongMi.json"},
-{"name":"PG","url":"file://pg/jsm.json"},
-{"name":"放牛","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
+{"name":"小二","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
 {"name":"T风","url":"http://tv.glxkx.com/config/2"},
  {"name":"小米","url":"http://www.mpanso.com/小米/DEMO.json"},
 {"name":"Candy","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"},
@@ -19,6 +17,7 @@
 {"name":"真心","url":"https://jihulab.com/dukunjueji/kk/-/raw/main/json/FongMi.json"},
 {"name":"爽歪","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/shuangwai.json"},
 
+ 
 {"name":"小胡","url":"http://xiaohu.xzam.cn/xiaohu"},
 {"name":"原接口9","url":"file://AGTV/原接口9.json"},
 //{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
@@ -28,9 +27,13 @@
 {"name":"yydf","url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"},
 {"name":"短剧","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
 {"name":"Xdajuhe","url":"https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
-
+{"name":"AITV","url":"file://AITV/原接口666.json"},
+ {"name":"AQTV","url":"file://AQTV/FongMi.json"},
+ {"name":"PG","url":"file://pg/jsm.json"},
 {"name":"qist-tvbox","url":"https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"},
-{
+
+ 
+ {
       "name": "甜蜜",
       "url": "http://zdir.kebedd69.repl.co/public/live.txt"
    },
