@@ -11,10 +11,8 @@
  {"name":"PG","url":"file://pg/pg.json"},
  {"name":"PGZ","url":"file://pg/jsm.json"},
  {"name":"南风","url":"http://bobohome.ignorelist.com:20247/南风"},
- {"name":"道自用","url":"https://tvbox.catvod.com/catvod.json
-"},
- {"name":"dao潇洒","url":"https://tvbox.catvod.com/xs/api.json
-"},
+ {"name":"道自用","url":"https://tvbox.catvod.com/catvod.json"},
+ {"name":"dao潇洒","url":"https://tvbox.catvod.com/xs/api.json"},
 
 {"name":"so easy","url":"http://xiaohu.xzam.cn/xiaohu"},
  {"name":"六取","url":"https://gh.con.sh/https://raw.githubusercontent.com/zhusuner/beibei/refs/heads/main/liuzi.json"},
