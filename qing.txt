@@ -1,0 +1,45 @@
+{"urls":[
+{"name":"真♡心","url":"https://2869822922%40qq.com:am8k9gwz9nxvhc5e@dav.jianguoyun.com/dav/AgrReader/FongMi.json"},
+{"name":"AQTV","url":"file://AQTV/FongMi.json"},
+{"name":"AZG","url":"file://AZG/FongMi.json"},
+{"name":"小二","url":"https://9280.kstore.space/wex.json"},
+ {"name":"潇洒","url":"https://9877.kstore.space/FourD/api.json"},
+ {"name":"小米","url":"http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json"},
+{"name":"🍚饭太硬","url":"http://www.饭太硬.com/tv"}, 
+{"name":"🐼肥猫","url":"http://肥猫.com/"},     
+{"name":"ók","url":"http://ok321.top/tv"},
+ {"name":"PG","url":"file://pg/pg.json"},
+ {"name":"PGZ","url":"file://pg/jsm.json"},
+ {"name":"南风","url":"http://bobohome.ignorelist.com:20247/南风"},
+ {"name":"道自用","url":"https://tvbox.catvod.com/catvod.json
+"},
+ {"name":"dao潇洒","url":"https://tvbox.catvod.com/xs/api.json
+"},
+
+{"name":"so easy","url":"http://xiaohu.xzam.cn/xiaohu"},
+ {"name":"六取","url":"https://gh.con.sh/https://raw.githubusercontent.com/zhusuner/beibei/refs/heads/main/liuzi.json"},
+{"name":"Jadehh","url":"https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/tv_config.json"},
+{"name":"XYQ","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
+{"name":"js","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/gao/master/js.json"},
+{"name":"pg-gao","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"},
+{"name":"zxin-pg","url":"https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/jsm.json"},
+{"name":"真心","url":"https://jihulab.com/dukunjueji/kk/-/raw/main/json/FongMi.json"},
+ {"name":"六趣","url":"https://gitee.com/liuqu01/liuqutvbox/raw/master/%E5%85%AD%E8%B6%A3%E7%89%9B%E9%80%BC.json"},
+{"name":"爽歪","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhusuner/beibei/main/shuangwai.json"},
+ {"name":"QING","url":"file://AQTV/青.json"},
+ {"name":"T风","url":"http://tv.glxkx.com/config/2"},
+
+{"name":"小胡","url":"http://xiaohu.xzam.cn/xiaohu"},
+{"name":"原接口9","url":"file://AGTV/原接口9.json"},
+//{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
+{"name":"Yoursmile7","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cysk003/Yoursmile7_TVBox/master/XC.json"},
+{"name":"happybaihao","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/happybaihao/pan/main/github.json"},
+{"name":"xzqzy","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/%E9%98%BF%E6%B6%9B.json"},
+{"name":"yydf","url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"},
+{"name":"短剧","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
+{"name":"Xdajuhe","url":"https://raw.githubusercontent.com/alantang1977/X/main/X.json"},
+{"name":"AITV","url":"file://AITV/原接口666.json"},
+ {"name":"AQTV","url":"file://AQTV/FongMi.json"},
+
+{"name":"👭人人影视","url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"}
+]}
